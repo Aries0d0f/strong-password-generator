@@ -10,13 +10,13 @@
   $ python3 /path/to/password.py "First Keyword" "Second Keyword"
 ```
 
-*** example
-**** input
+### example
+#### input
 
 ```Shell
   $ python3 /path/to/password.py 白羊喵嗚喵喵嗚 白羊的Facebook密碼
 ```
-**** output
+#### output
 
 ```Shell
   Your Fucking Strong Password is:
